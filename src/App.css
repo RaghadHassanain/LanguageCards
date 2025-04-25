@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  padding: 30px;
+  background-color: #7f088d;
+  min-height: 100vh;
+  color: aliceblue;
+
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  background-color: rgb(255, 255, 255);
+}
